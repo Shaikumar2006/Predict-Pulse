@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+venv/
+env/
+*.egg-info/
+
+# Node (frontend has its own .gitignore too, but this covers the root)
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Streamlit secrets — never commit these
+.streamlit/secrets.toml
+
+# Raw bearing sensor data — too large for git, document a download step instead
+1st_test/
+2nd_test/
+3rd_test/
+
+# OS
+.DS_Store
+Thumbs.db
