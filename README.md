@@ -170,3 +170,6 @@ The detection and cost-translation pipeline is already validated on real histori
 
 - **Data:** NASA / IMS Prognostics Data Repository, Rexnord ZA-2115 bearing run-to-failure datasets. Please cite and download from the original source: <!-- TODO: add the official dataset link -->
 - Built for the **Yuva Yodha 2026** Smart Manufacturing track.
+
+## License 
+This project is licensed under the [MIT License].
